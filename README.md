@@ -78,8 +78,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎯 Connect with Me
 For any queries or suggestions, feel free to reach out!
 - **GitHub:** [@varshakaturu](https://github.com/varshakaturu)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com *(Replace with actual email)*
+- **LinkedIn:** [Varsha Katuru](https://linkedin.com/in/varshakaturu)
+- **Email:** varshakaturu@gmail.com
 
 ---
 
