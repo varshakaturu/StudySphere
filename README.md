@@ -3,7 +3,7 @@ StudySphere
 
 StudySphere is a dynamic and user-friendly self-learning platform designed to help students catch up on essential topics with ease. Whether you're revising concepts, exploring new subjects, or looking for structured learning paths, StudySphere provides an interactive and engaging experience.
 
-
+**[Click here to view the live site]([https://epic-eats-react.vercel.app/](https://varshakaturu-studysphere.netlify.app/))**
 
  🚀 Features
  
